@@ -1,17 +1,18 @@
-# demoapp
+# flutter_app
 
-A new Flutter application.
+My first ever Flutter application.
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+It is just a demo of a flutter app where I have implemented 
+- a drawer to show some options for a user.
+- added an image on the top of the drawer
+- made a list in the dashboard where some title with short description about the titles are there.
+- depending on the chosen option, it will show the details of that particular title with an image.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Data is fetched from a JSON file witch is present in the assets folder. I have passed the objects from Dashboard to the Details page.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_app
+
+I took help from this link: https://flutter.dev/docs. I hope, you will get help too.
