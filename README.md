@@ -2,10 +2,6 @@
 
 My first ever Flutter application.
 
-
-## Getting Started
-
-
 It is just a demo of a flutter app where I have implemented 
 - a drawer to show some options for a user.
 - added an image on the top of the drawer
